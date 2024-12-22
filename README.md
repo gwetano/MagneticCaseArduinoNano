@@ -3,6 +3,9 @@
 ## Overview  
 This project provides a 3D-printable case for the Arduino Nano with an integrated magnetic mounting system. The case ensures secure housing for your board while allowing easy access to pins and connectors. Its lightweight and durable design makes it ideal for both prototyping and permanent installations.  
 
+![Magnetic Case](blueprint.jpg)
+*Sketch designed for Arduino Nano.* 
+
 ## Features  
 - **Compact Design:** Perfectly fits the Arduino Nano.  
 - **Magnetic Mounting:** Built-in slots for neodymium magnets for quick and secure attachment to metallic surfaces.  
