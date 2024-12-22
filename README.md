@@ -10,7 +10,7 @@ This project provides a 3D-printable case for the Arduino Nano with an integrate
 - **Customizable:** STL files can be edited to fit your specific needs.  
 
 ## Contents  
-- `STL/` - Folder containing 3D-printable STL files.
+- `magneticCase.stl` - STL file.
 
 ## Requirements  
 ### Materials  
@@ -22,7 +22,7 @@ This project provides a 3D-printable case for the Arduino Nano with an integrate
 
 ## Getting Started  
 1. **Download the STL files**:  
-   Clone the repository or download the STL files from the `STL/` folder.  
+   Clone the repository or download the STL files. 
    ```bash
    git clone https://github.com/your-username/magnetic-case-arduino-nano.git
    ```
