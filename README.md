@@ -27,5 +27,5 @@ This project provides a 3D-printable case for the Arduino Nano with an integrate
 1. **Download the STL files**:  
    Clone the repository or download the STL files. 
    ```bash
-   git clone https://github.com/your-username/magnetic-case-arduino-nano.git
+   git clone https://github.com/gwetano/MagneticCaseArduinoNano.git
    ```
